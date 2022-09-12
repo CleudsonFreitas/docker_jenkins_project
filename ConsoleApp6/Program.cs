@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Jenkins-Docker net6 - new file 33");
+            Console.WriteLine("Hello Jenkins-Docker net6 - 12/19/22 v1");
 	    Console.ReadKey();
         }
     }
